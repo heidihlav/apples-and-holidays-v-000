@@ -91,6 +91,6 @@ def all_holidays_with_bbq(holiday_hash)
     # holidays.each do |holiday, supplies|
 
       # end
-    end
+    # end
   end
 end
