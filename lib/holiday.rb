@@ -90,6 +90,6 @@ def all_holidays_with_bbq(holiday_hash)
       if holiday.value == "BBQ"
         return supplies
       end
-end
-end
+    end
+  end
 end
